@@ -1,0 +1,2 @@
+    "start": "set DEBUG=myapp:* && node ./bin/www",
+    "start": "set DEBUG=express:* && node ./bin/www"
